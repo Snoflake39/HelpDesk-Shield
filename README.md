@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./HelpDesk-Shield.jpeg" alt="HelpDesk-Shield Security Playbook" width="420" />
+</div>
 # 🛡️ HelpDesk-Shield: IT Support & Access Management Playbook
 
 > *Standard Operating Procedures (SOPs), user troubleshooting workflows, and identity lifecycle management for remote technical support.*
