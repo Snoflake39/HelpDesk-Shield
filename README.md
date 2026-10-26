@@ -21,3 +21,4 @@
 ### 3. Log Auditing & Threat Hygiene
 * Daily review of failed login spikes to flag suspicious geographic or repeated IP authentication attempts.
 * Escalation pathing for suspected credential compromise.
+# HelpDesk-Shield
